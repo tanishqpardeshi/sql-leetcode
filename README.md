@@ -12,5 +12,6 @@ this is done to connect leetcode progress to github
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/tanishqpardeshi/sql-leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1729-find-followers-count](https://github.com/tanishqpardeshi/sql-leetcode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/tanishqpardeshi/sql-leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/tanishqpardeshi/sql-leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tanishqpardeshi/sql-leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
